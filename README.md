@@ -1,9 +1,15 @@
-# game615-spring2023-07
+**Exercise 07:** _"Narration try"_
 
-Narration try
+**Group team:** HongCheng Zhang, Yihua Pu
 
-Students: HongCheng Zhang, Yihua Pu
+**How to play:** 
+WD to move, I to interact, Space to jump and continue dialogue. 
 
-Plugin: Ink (Unity plugin)
+**Game goal:**
+Speak with the NPC. 
 
-[Game link](https://zhang-ale.github.io/game615-spring2023-07/build)
+[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023-07/build)
+
+[**Source link**](https://zhang-ale.github.io/game615-spring2023-07/tree/main/)
+
+**Plugin:** [Ink-Unity plugin](https://github.com/inkle/ink-unity-integration)
