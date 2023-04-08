@@ -10,6 +10,6 @@ Speak with the NPC.
 
 [**Playable link to game**](https://zhang-ale.github.io/game615-spring2023-07/build)
 
-[**Source link**](https://zhang-ale.github.io/game615-spring2023-07/tree/main/)
-
+[**Source link**](https://github.com/Zhang-Ale/game615-spring2023-07/tree/main/)
+                  
 **Plugin:** [Ink-Unity plugin](https://github.com/inkle/ink-unity-integration)
